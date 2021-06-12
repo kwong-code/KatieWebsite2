@@ -5,4 +5,5 @@
 List:
 - Instagram: katiewong
 - Twitter: katiewong
-![alt text](filename.jpg)
+
+![alt text](Capture.png)
