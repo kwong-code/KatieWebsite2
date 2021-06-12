@@ -16,4 +16,4 @@ List
 List
 - Over 20 hours of volunteering
 
-See the [Home page](/go-go-ghpages/README.md)
+See the [Home page](README.md)
