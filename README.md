@@ -2,7 +2,7 @@
 
 ### Name: Katie
 
-List:
+Social Media:
 - Instagram: katiewong
 - Twitter: katiewong
 
