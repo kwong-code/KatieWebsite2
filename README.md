@@ -8,4 +8,4 @@ List:
 
 ![picture](Capture.PNG)
 
-![About](about.md)
+[About](about.md)
