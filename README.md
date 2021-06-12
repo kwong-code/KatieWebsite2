@@ -6,4 +6,4 @@ List:
 - Instagram: katiewong
 - Twitter: katiewong
 
-![alt text](Capture.png)
+![picture](Capture.png)
