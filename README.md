@@ -7,3 +7,4 @@ List:
 - Twitter: katiewong
 
 ![picture](Capture.PNG)
+![About](about.md)
