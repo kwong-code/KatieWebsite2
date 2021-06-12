@@ -8,4 +8,4 @@ List:
 
 ![picture](Capture.PNG)
 
-See the [About](about.md)
+See the [About](about.md) page
